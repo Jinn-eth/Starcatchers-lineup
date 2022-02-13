@@ -1,7 +1,16 @@
-在线玩：https://gd4ark.github.io/linkup
+# Starcatchers line up 
 
-游戏截图：
 
-![](https://ws1.sinaimg.cn/large/006mS5wEgy1g0hquh67twj31jk0uadu5.jpg)
 
-如对您有帮助，欢迎Star！😋
+You're welcomed to try the [starcatcher line up](https://Jinn-eth.github.io/Starcatchers-lineup/).
+
+If you like it, your star will be appreciated~~~
+
+Here is game rule. Hope you will enjoy!!!
+
+# Game rules
+
+Connect the same two stars within three straight lines to eliminate them.
+
+Eliminate all stars within the deadline to pass the level.
+
