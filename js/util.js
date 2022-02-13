@@ -18,6 +18,7 @@ var on = function(elem,type,callback,status){
     });
 };
 
+
 var css = function(elem,styleObj){
     for (var i in styleObj){
         elem.style[i] = styleObj[i];
