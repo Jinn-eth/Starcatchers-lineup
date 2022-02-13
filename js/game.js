@@ -315,7 +315,7 @@ var Game = (function(){
 
         winning: function () {
             setTimeout(function () {
-                var str = "已完成，确定再来一局吗？";
+                var str = "You won!Play again?";
                 alert(str);
                 location.reload();
             }, 50);
@@ -323,7 +323,7 @@ var Game = (function(){
         
         over: function () {
             data.time = config.time;
-            var str = "失败！确定再来一局吗？";
+            var str = "You are lose! Play again?";
             alert(str);
             location.reload();   
         },
