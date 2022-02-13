@@ -39,7 +39,7 @@ a{
     @extend .flex;
     flex-wrap: wrap;
     margin: 0 auto;
-    background:rgba(0,0,0,0.5);
+    background:rgb(0,0,0,0);
     height: 100%;
     overflow: hidden;
     & > div{
