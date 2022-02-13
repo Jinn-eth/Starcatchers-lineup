@@ -9,6 +9,7 @@ function event(game){
         if (!before){
             before = item;
             return;
+            
         }
         if (before === item) return;
         var beforeIndex = parseInt(before.getAttribute('data-index'));
