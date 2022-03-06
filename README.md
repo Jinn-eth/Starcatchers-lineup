@@ -1,8 +1,8 @@
-# Starcatchers line up 
+# Whiskers lineup 
 
 
 
-You're welcomed to try the [starcatcher line up](https://Jinn-eth.github.io/Starcatchers-lineup/).
+You're welcomed to try the [Whiskers-lineup](https://Jinn-eth.github.io/Whiskers-lineup/).
 
 If you like it, your star will be appreciated~~~
 
